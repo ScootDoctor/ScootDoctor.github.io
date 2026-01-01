@@ -1,7 +1,4 @@
----
-layout: default
-title: The Scoot Doctor
----
+
 
 # Reliable Scooter & Small Engine Repair
 
