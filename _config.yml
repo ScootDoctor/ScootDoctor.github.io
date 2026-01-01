@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: The Scoot Doctor
 description: A website for my business The Scoot Doctor
-logo: /assets/logo.png
+logo: assets/ScootDoctor_Image.png
 
 include:
   - assets
