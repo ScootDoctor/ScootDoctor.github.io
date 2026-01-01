@@ -1,3 +1,6 @@
 title: The Scoot Doctor
 description: Your local solution for scooter & small engine repair
 logo: /assets/ScootDoctor_Image.png
+
+include:
+  - assets
