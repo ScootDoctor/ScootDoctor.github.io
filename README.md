@@ -1,11 +1,7 @@
-<!-- Top-left header with logo -->
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="{{ 'assets/ScootDoctor_Image.png' | relative_url }}" alt="The Scoot Doctor Logo" style="height: 60px;">
-  <h1 style="margin: 0;">The Scoot Doctor</h1>
-</div>
-
-
-# Reliable Scooter & Small Engine Repair
+---
+layout: default
+title: Home
+---
 
 Welcome to **The Scoot Doctor** — your local solution for fast, honest, and reliable scooter and small-engine repair.
 
@@ -54,4 +50,6 @@ Service available by appointment.
 
 ---
 
-## 🚀 Ready to Ride A
+## 🚀 Ready to Ride Again?
+
+Get in touch today and let **The Scoot Doctor** take care of it.
