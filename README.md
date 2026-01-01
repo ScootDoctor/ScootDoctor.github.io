@@ -1,4 +1,12 @@
+<!-- Tab buttons -->
+<div style="margin-bottom: 20px;">
+  <button class="tablink" onclick="openTab('Home')" style="padding:10px;">Home</button>
+  <button class="tablink" onclick="openTab('About')" style="padding:10px;">About</button>
+</div>
 
+<!-- Tab content -->
+<div id="Home" class="tabcontent">
+  ## Welcome
 
 
 Welcome to **The Scoot Doctor** — your local solution for fast, honest, and reliable scooter and small-engine repair.
