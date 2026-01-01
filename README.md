@@ -30,7 +30,7 @@ Welcome to **The Scoot Doctor** — Your solution to vehicle repair!
 - ✔ Quick turnaround times   
 
 ---
-## Prices
+## 💲Prices
 - All diagnoistics start at $20/hr
 - Regular service runs at a flat fee of 25 dollars, not including oils/filters
 - Larger repairs are subject to differnt pricing depending on make and model of the vehicle, call for more specific details
