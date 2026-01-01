@@ -1,4 +1,4 @@
-<img src="/assets/ScootDoctor_Image.png" alt="The Scoot Doctor Logo" style="height: 60px;">
+
 
 
 Welcome to **The Scoot Doctor** — your local solution for fast, honest, and reliable scooter and small-engine repair.
