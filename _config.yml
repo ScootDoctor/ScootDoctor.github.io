@@ -1,8 +1,6 @@
 theme: jekyll-theme-tactile
 title: The Scoot Doctor
 description: A website for my business The Scoot Doctor
-<div style="display: flex; align-items: center; gap: 15px;">
-  <img src="/assets/ScootDoctor_Image.png" alt="The Scoot Doctor Logo" style="height: 60px;">
-</div>
+
 include:
   - assets
