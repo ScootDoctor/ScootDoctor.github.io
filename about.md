@@ -1,9 +1,7 @@
 <!-- Navigation -->
-<p>
-  <a href="/index.html">Home</a> |
-  <a href="/about.html" style="font-weight:bold;">About</a> |
-  <a href="/services.html">Services</a>
-</p>
+---
+permalink: /about/
+---
 
 ## About Us
 
