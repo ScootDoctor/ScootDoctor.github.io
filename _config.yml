@@ -1,6 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have onetitle: The Scoot Doctor
+remote_theme: "jekyll/minima@1e8a445"plugins:
+
 title: The Scoot Doctor
 description: Your local solution for scooter & small engine repair
 logo: /assets/ScootDoctor_Image.png
