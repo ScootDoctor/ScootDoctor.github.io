@@ -1,4 +1,4 @@
-![The Scoot Doctor Logo](/)
+![The Scoot Doctor Logo](/assets/ScootDoctor_Image.png)
 
 # Reliable Scooter & Small Engine Repair
 
