@@ -1,4 +1,6 @@
-
+---
+title: The Scoot Doctor
+---
 
 <!-- Header with logo -->
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
