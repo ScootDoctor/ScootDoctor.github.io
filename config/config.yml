@@ -9,5 +9,4 @@ description: A website for my business The Scoot Doctor
 include:
   - assets
 
-# Optional: if you plan to host on GitHub Pages
-markdown: kramdown
+
