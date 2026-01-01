@@ -1,18 +1,4 @@
-<!-- Hide the theme-generated header -->
-<style>
-.page-header {
-    display: none; /* hides the blue header from tactile theme */
-}
-</style>
 
-<!-- Custom header with logo -->
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="assets/ScootDoctor_Image.png" alt="The Scoot Doctor Logo" style="height: 60px;">
-  <div>
-    <h1 style="margin: 0;">The Scoot Doctor</h1>
-    <p style="margin: 0;">Your local solution for scooter & small engine repair</p>
-  </div>
-</div>
 
 Welcome to **The Scoot Doctor** — your local solution for fast, honest, and reliable scooter and small-engine repair.
 
