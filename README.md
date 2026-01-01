@@ -39,8 +39,9 @@ Welcome to **The Scoot Doctor** — Your solution to vehicle repair!
   
 ## 📍 Location
 
-Based in **Gainesville, FL**, but we come to **YOU**.
-For 2 wheel repairs we will come to you and pick up the unit. For large vehicle reapirs, we will either come to you for service, or ask you bring your vehicle to our hub.
+Based in **Gainesville, FL**, 
+- We come to **YOU**.
+- For large vehicle reapirs, we will either come to you for service, or ask you bring your vehicle to our hub.
 
 ---
 
