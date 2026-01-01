@@ -1,4 +1,8 @@
-
+<!-- Top-left header with logo -->
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="{{ '/assets/logo.png' | relative_url }}" alt="The Scoot Doctor Logo" style="height: 60px;">
+  <h1 style="margin: 0;">The Scoot Doctor</h1>
+</div>
 
 
 # Reliable Scooter & Small Engine Repair
