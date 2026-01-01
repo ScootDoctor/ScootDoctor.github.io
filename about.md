@@ -1,7 +1,7 @@
 <!-- Navigation -->
-
+---
 permalink: /about/
-
+---
 
 ## About Us
 
