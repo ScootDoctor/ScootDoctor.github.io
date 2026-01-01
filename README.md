@@ -1,4 +1,4 @@
-
+![The Scoot Doctor Logo](/)
 
 # Reliable Scooter & Small Engine Repair
 
@@ -49,6 +49,4 @@ Service available by appointment.
 
 ---
 
-## 🚀 Ready to Ride Again?
-
-Get in touch today and let **The Scoot Doctor** take care of it.
+## 🚀 Ready to Ride A
