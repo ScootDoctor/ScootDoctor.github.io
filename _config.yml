@@ -1,12 +1,7 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Name of your site (displayed in the header)
-name: The Scoot Docotr
-
-# Short bio or description (displayed in the header)
+theme: jekyll-theme-minimal
+title: The Scoot Doctor
 description: A website for my business The Scoot Doctor
+logo: /assets/logo.png
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+include:
+  - assets
