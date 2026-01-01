@@ -1,7 +1,7 @@
----
-title: The Scoot Doctor
----
-
+<style>
+.page-header {
+    display: none; /* hides the theme-generated blue header */
+</style>
 <!-- Header with logo -->
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="assets/ScootDoctor_Image.png" alt="The Scoot Doctor Logo" style="height: 60px;">
