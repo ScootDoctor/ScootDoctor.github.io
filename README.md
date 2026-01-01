@@ -1,7 +1,7 @@
 <!-- Tab buttons -->
 <p>
-  <a href="/">Home</a> |
-  <a href="/about/" style="font-weight:bold;">About</a>
+  <a href="/" style="font-weight:bold;" >Home</a> |
+  <a href="/about/" style="font-weight:bold;">About</a> |
 </p>
 
 
