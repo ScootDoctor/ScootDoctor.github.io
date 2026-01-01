@@ -1,8 +1,15 @@
-<!-- Navigation -->
 ---
 title: About
 permalink: /about/
 ---
+
+<!-- Navigation (optional) -->
+<p>
+  <a href="/">Home</a> |
+  <a href="/about/" style="font-weight:bold;">About</a> |
+  <a href="/services/">Services</a>
+</p>
+
 ## About Us
 
 **The Scoot Doctor** was founded to provide fast, reliable scooter and small-engine repair in Gainesville, FL.  
