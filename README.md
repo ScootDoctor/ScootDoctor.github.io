@@ -1,8 +1,8 @@
 <!-- Tab buttons -->
-<div style="margin-bottom: 20px;">
-  <button class="tablink" onclick="openTab('Home')" style="padding:10px;">Home</button>
-  <button class="tablink" onclick="openTab('About')" style="padding:10px;">About</button>
-</div>
+<p>
+  <a href="/">Home</a> |
+  <a href="/about/" style="font-weight:bold;">About</a> |>
+</p>
 
 
 
