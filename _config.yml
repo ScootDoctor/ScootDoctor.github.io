@@ -1,1 +1,14 @@
 
+# Site metadata
+title: The Scoot Doctor
+description: A website for my business The Scoot Doctor
+
+# Do NOT use a theme to avoid the blue header
+# theme: jekyll-theme-tactile  # <- REMOVE or comment this out
+
+# Include assets folder
+include:
+  - assets
+
+# Optional: if you plan to host on GitHub Pages
+markdown: kramdown
