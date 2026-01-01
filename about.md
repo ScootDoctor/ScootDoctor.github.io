@@ -5,9 +5,8 @@ permalink: /about/
 
 <!-- Navigation (optional) -->
 <p>
-  <a href="/">Home</a> |
+  <a href="/" style="font-weight:bold;" >Home</a> |
   <a href="/about/" style="font-weight:bold;">About</a> |
-  <a href="/services/">Services</a>
 </p>
 
 ## About Us
