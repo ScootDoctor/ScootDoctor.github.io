@@ -1,26 +1,24 @@
 <!-- Tab buttons -->
 <p>
   <a href="/" style="font-weight:bold;" >Home</a> |
-  <a href="/about/" style="font-weight:bold;">About</a> |
+  <a href="/about/" style="font-weight:bold;">About</a> 
 </p>
 
 
 
 
-Welcome to **The Scoot Doctor** — your local solution for fast, honest, and reliable scooter and small-engine repair.
-
-Whether it’s a daily commuter or a weekend ride, we get you back on the road without the dealership headache.
+Welcome to **The Scoot Doctor** — Your solution to vehicle repair!
 
 ---
 
-## 🔧 Services
+## 🔧 Service Provided
 
-- Electric scooter diagnostics & repair  
-- Gas scooter repair & maintenance  
+- 4,2 or no wheel repair & service  
 - Carburetor cleaning & tuning  
 - Electrical troubleshooting  
 - Brake, tire, and drivetrain service  
-- Preventative maintenance & inspections  
+- Preventative maintenance & inspections
+- Diagnostics
 
 ---
 
@@ -29,22 +27,24 @@ Whether it’s a daily commuter or a weekend ride, we get you back on the road w
 - ✔ Locally owned & operated  
 - ✔ Straightforward pricing  
 - ✔ No upselling, no nonsense  
-- ✔ Quick turnaround times  
-- ✔ Real mechanical experience  
+- ✔ Quick turnaround times   
 
 ---
-
+## Prices
+- All diagnoistics start at $20/hr
+- Regular service runs at a flat fee of 25 dollars, not including oils/filters
+- Larger repairs are subject to differnt pricing depending on make and model of the vehicle, call for more specific details
 ## 📍 Location
 
-Based in **Gainesville, FL**  
-Service available by appointment.
+Based in **Gainesville, FL**, but we come to **YOU**.
+For 2 wheel repairs we will come to you and pick up the unit. For large vehicle reapirs, we will either come to you for service, or ask you bring your vehicle to our hub.
 
 ---
 
 ## 📞 Contact
 
-📧 Email: *your-email@example.com*  
-📱 Phone/Text: *(XXX) XXX-XXXX*  
+📧 Email: *thescootdoctor@gmail.com*  
+📱 Phone/Text: *(352) 574-3286*  
 
 > Reach out for quotes, availability, or general questions.
 
