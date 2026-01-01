@@ -1,8 +1,5 @@
 
-<!-- Header with logo on the top-left -->
-<div style="display: flex; align-items: center; gap: 15px;">
-  <img src="/assets/ScootDoctor_Image.png" alt="The Scoot Doctor Logo" style="height: 60px;">
-</div>
+
 
 # Reliable Scooter & Small Engine Repair
 
